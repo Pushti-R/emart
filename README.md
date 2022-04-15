@@ -1,4 +1,4 @@
-To visit the site click [here](my-emart.netlify.app)
+To visit the site click [here](https://my-emart.netlify.app/)
 
 # Getting Started with Create React App
 
